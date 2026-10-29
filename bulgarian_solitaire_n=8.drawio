@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page 2" id="0">
+    <mxGraphModel dx="1838" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="(8)" style="graphMlID=(8,)" parent="1" vertex="1">
+          <mxGeometry x="-125" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="(7,1)" style="graphMlID=(7, 1)" parent="1" vertex="1">
+          <mxGeometry x="-190" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="(6,2)" style="graphMlID=(6, 2)" parent="1" vertex="1">
+          <mxGeometry x="-150" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="(5,2,1)" style="graphMlID=(5, 2, 1)" parent="1" vertex="1">
+          <mxGeometry x="-115" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="(4,3,1)" style="graphMlID=(4, 3, 1)" parent="1" vertex="1">
+          <mxGeometry x="-90" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="(3,3,2)" style="graphMlID=(3, 3, 2)" parent="1" vertex="1">
+          <mxGeometry x="20" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="(3,2,2,1)" style="graphMlID=(3, 2, 2, 1)" parent="1" vertex="1">
+          <mxGeometry x="115" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="(4,2,1,1)" style="graphMlID=(4, 2, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-200" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="(4,2,2)" style="graphMlID=(6, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-355" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="(5,3)" style="graphMlID=(5, 3)" parent="1" vertex="1">
+          <mxGeometry x="-420" y="450" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="(4,2,2)" style="graphMlID=(4, 2, 2)" parent="1" vertex="1">
+          <mxGeometry x="-425" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="(3,3,1,1)" style="graphMlID=(3, 3, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-520" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="(5,1,1,1)" style="graphMlID=(5, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="(4,4)" style="graphMlID=(4, 4)" parent="1" vertex="1">
+          <mxGeometry x="30" y="450" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="(6,1,1)" style="graphMlID=(4, 1, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-475" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="(3,2,1,1,1)" style="graphMlID=(3, 2, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-75" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="(3,1,1,1,1,1)" style="graphMlID=(3, 1, 1, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-120" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="(2,2,1,1,1,1)" style="graphMlID=(2, 2, 2, 2)" parent="1" vertex="1">
+          <mxGeometry x="-540" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="(2,2,2,1,1)" style="graphMlID=(2, 2, 2, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="105" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="(3,3,1,1)" style="graphMlID=(2, 2, 1, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-300" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="(2,1,1,1,1,1,1)" style="graphMlID=(2, 1, 1, 1, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-255" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="(1,1,1,1,1,1,1,1)" style="graphMlID=(1, 1, 1, 1, 1, 1, 1, 1)" parent="1" vertex="1">
+          <mxGeometry x="-140" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="graphMlID=null" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="graphMlID=null" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="graphMlID=null" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="graphMlID=null" parent="1" source="5" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="graphMlID=null" parent="1" source="6" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="graphMlID=null" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="graphMlID=null;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="610" />
+              <mxPoint x="-160" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="graphMlID=null" parent="1" source="9" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="" style="graphMlID=null" parent="1" source="10" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="" style="graphMlID=null" parent="1" source="11" target="12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="" style="graphMlID=null;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="12" target="13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-395" y="590" />
+              <mxPoint x="-485" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="" style="graphMlID=null;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="13" target="12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="545" />
+              <mxPoint x="-430" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="" style="graphMlID=null" parent="1" source="14" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="" style="graphMlID=null" parent="1" source="15" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="graphMlID=null" parent="1" source="16" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="" style="graphMlID=null" parent="1" source="17" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="" style="graphMlID=null" parent="1" source="18" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="" style="graphMlID=null" parent="1" source="19" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="" style="graphMlID=null" parent="1" source="20" target="14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="graphMlID=null" parent="1" source="21" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="" style="graphMlID=null" parent="1" source="22" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="" style="graphMlID=null" parent="1" source="23" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
